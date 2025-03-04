@@ -17,3 +17,4 @@ The **Nagri Language Dataset** is a collection of text and image data specifical
 - **Linguistic Analysis:** Study the structure and patterns of Syloti Nagri text.  
 
 This dataset is valuable for **AI researchers, linguists, and developers** working on **Syloti Nagri language processing**. 🚀
+![image](https://github.com/user-attachments/assets/36efb121-dd92-492d-b772-49572301b1cc)
