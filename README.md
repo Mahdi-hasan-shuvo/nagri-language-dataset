@@ -1,5 +1,7 @@
-# nagri-language-dataset
+
 ### **Nagri Language Dataset - Description**  
+Nagri is a writing system for the Sylheti language, which is spoken in Bangladesh and India.
+
 
 The **Nagri Language Dataset** is a collection of text and image data specifically focused on **Syloti Nagri script**. This dataset is designed for **OCR (Optical Character Recognition), handwriting recognition, and language modeling** tasks related to the **Syloti Nagri** language.  
 
